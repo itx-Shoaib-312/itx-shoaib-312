@@ -5,7 +5,7 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 
 # 🌐 My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ah54n) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsanr44) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-qureshi-b86135268/) 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -37,25 +37,25 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 📊 GitHub Stats:
-<a href="https://github.com/mahsanr44">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahsanr44&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/itx-shoaib-312">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-shoaib-312&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> 
 
-<a href="https://github.com/mahsanr44">
-  <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=mahsanr44&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ahsan's GitHub Stats" />
+<a href="https://github.com/itx-shoaib-312">
+  <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=itx-shoaib-312&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shoaib's GitHub Stats" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsanr44&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itx-shoaib-312&theme=vue-dark)](https://git.io/streak-stats)
 <br/>
 <br/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br/>
 <p align="center"> 
-  Total Visitors on Ahsan's Profile<br>
-  <img src="https://profile-counter.glitch.me/mahsanr44/count.svg" />
+  Total Visitors on Shoaib's Profile<br>
+  <img src="https://profile-counter.glitch.me/itx-shoaib-312/count.svg" />
 </p> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- ## 🐦 My Latest Tweet
-[![](https://gtce.itsvg.in/api?username=mahsanr44)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=itx-shoaib-312)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  -->
