@@ -28,7 +28,9 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 # 📊 GitHub Stats:
-
+<a href="https://github.com/itx-shoaib-312">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itx-shoaib-312&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> 
 
 <a href="https://github.com/itx-shoaib-312">
   <img align="center" style="margin:1.0rem" src="https://github-readme-stats.vercel.app/api?username=itx-shoaib-312&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shoaib's GitHub Stats" />
