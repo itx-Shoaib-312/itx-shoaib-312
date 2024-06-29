@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Dedicated Software Engineer with a proven track record of developing responsive and user-friendly web applications. Proficient in a wide array of modern technologies, including html5, css3 ,java Script  Ajax And jQuery and  PHP Laravel. With a solid foundation in both front-end and back-end development, I specialize in crafting efficient and scalable solutions tailored to meet the unique needs of enterprise clients. Due to my experience in enterprise solutions, I understand the complexities and challenges inherent in large-scale projects.
+A Dedicated Computer Science with a proven track record of developing responsive and user-friendly web applications. Proficient in a wide array of modern technologies, including html5, css3 ,java Script  Ajax And jQuery and  PHP Laravel. With a solid foundation in both front-end and back-end development, I specialize in crafting efficient and scalable solutions tailored to meet the unique needs of enterprise clients. Due to my experience in enterprise solutions, I understand the complexities and challenges inherent in large-scale projects.
 Driven by a relentless pursuit of excellence, I continuously seek opportunities to expand my skill set and stay ahead of industry trends. My commitment to delivering exceptional results is evident in my collaborative approach to problem-solving and achieving project objectives.
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
@@ -13,7 +13,6 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
