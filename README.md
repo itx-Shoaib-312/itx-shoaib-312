@@ -27,6 +27,8 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itx-Shoaib-312&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 <a href="https://github.com/itx-shoaib-312">
