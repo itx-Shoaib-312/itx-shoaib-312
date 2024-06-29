@@ -26,6 +26,8 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jooker302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 <a href="https://github.com/itx-shoaib-312">
@@ -46,7 +48,7 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
   <img src="https://profile-counter.glitch.me/itx-shoaib-312/count.svg" />
 </p> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+![snake gif](https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg)
 <!-- ## 🐦 My Latest Tweet
 [![](https://gtce.itsvg.in/api?username=itx-shoaib-312)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  -->
