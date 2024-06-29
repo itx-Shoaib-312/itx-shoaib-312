@@ -50,3 +50,20 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 ![snake gif](https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg)
 <!-- ## 🐦 My Latest Tweet
+================================================================================================================================
+# 💫 About Me:
+🎓 Undergraduate<br>
+🔭 Working on Laravel, PHP and Node JS<br>
+💻 Intermediate in NextJs and Tailwand CSS<br>
+🌱 Currently learning Blockchain<br>
+😍 Interested in AI and Game Development<br>
+👀 My Portfolio (https://portfolio-seven-lemon-33.vercel.app)
+
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jooker302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+![snake gif](https://github.com/Jooker302/snake/blob/output/github-snake-dark.svg)
