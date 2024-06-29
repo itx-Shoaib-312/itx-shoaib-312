@@ -26,8 +26,7 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jooker302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 # 📊 GitHub Stats:
 <a href="https://github.com/itx-shoaib-312">
