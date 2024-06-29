@@ -49,7 +49,6 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
   Total Visitors on Shoaib's Profile<br>
   <img src="https://profile-counter.glitch.me/itx-shoaib-312/count.svg" />
 </p> 
-![](https://github.com/itx-Shoaib-312/snake/blob/output/github-snake-dark.svg)
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- ## 🐦 My Latest Tweet
 
