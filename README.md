@@ -50,7 +50,7 @@ Driven by a relentless pursuit of excellence, I continuously seek opportunities 
   <img src="https://profile-counter.glitch.me/itx-shoaib-312/count.svg" />
 </p> 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-![snake gif](https://github.com/itx-Shoaib-312/snake/blob/output/github-snake-dark.svg)
+![](https://github.com/itx-Shoaib-312/snake/blob/output/github-snake-dark.svg)
 <!-- ## 🐦 My Latest Tweet
 
 
